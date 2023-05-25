@@ -7,3 +7,5 @@ Steps to run the project :-
 4) On terminal, run the command npm i. This command helps to import the node modules required to read the react-scripts present inside the json file.
 5) Once the node modules are imported, then run the command npm start in the terminal. 
 6) After running the command npm start, then weather will get open and the user can access the weather of any state or country.
+
+You can see the deployed site :- https://fancy-froyo-8947c4.netlify.app/
